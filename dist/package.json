@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "metro-config": "^0.60.0",
-    "react-native-unimodules": "^0.10.1"
+    "expo-file-system": "^14.1.0",
+    "expo-asset": "^8.6.1"
   },
   "keywords": [
     "highcharts",
